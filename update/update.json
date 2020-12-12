@@ -1,5 +1,5 @@
 {
-  "url":"https://github.com/tanim3221/RudfContactApp/raw/master/app/release/app-release.apk",
-  "versionCode": 15,
-  "updateMessage": "What's new***\n\n- Some bug fix.\n- New UI update with navigation menu."
+  "url":"https://github.com/tanim3221/rudf_app/raw/master/app/release/app-release.apk",
+  "versionCode": 16,
+  "updateMessage": "What's new***\n\n- New update contains RUDF new database management system.\n\n\n N.B. Please uninstall this app after installing a new one."
 }
